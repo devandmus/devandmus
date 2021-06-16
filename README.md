@@ -1,6 +1,6 @@
 ## Hola! Bonjour! Hello! <br>I'm Andrés @devandmus
 
-<img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+<img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260">
 
 - 🔭 I’m currently working as Fullstack Developer at Wom Chile
 - 🌱 I’m currently learning Fullstack Development Master Degree at OBS Business School & Universitat de Barcelona
