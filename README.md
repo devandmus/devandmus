@@ -2,14 +2,13 @@
 
 <img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260">
 
-- 🔭 I’m currently working as Fullstack Developer at Wom Chile
-- 🌱 I’m currently learning Fullstack Development Master Degree at OBS Business School & Universitat de Barcelona
+- 🔭 I’m currently working as a Fullstack Developer at Wom Chile
+- 🌱 And currently studying Fullstack Development Master Degree at OBS Business School & Universitat de Barcelona
 - 👯 I’m looking to collaborate on every Javascript or Python cool stuff
-- 🤔 I’m looking for help with React development
 - 💬 Ask me about React, Javascript, Django or Python
 - 🤖 I'm an active GitLab user
-- 🔥 I try to help people in Stackoverflow (spanish site)
-- 😀 I speak fluently spanish and french and a little bite of english
+- 🔥 I sometimes help people on Stackoverflow (spanish site)
+- 😀 My native language is Spanish, but I also speak fluently french and a little bit of english
 
 ## My GitHub Stats
 
