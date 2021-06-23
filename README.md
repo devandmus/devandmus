@@ -10,6 +10,10 @@
 - 🔥 I sometimes help people on Stackoverflow (spanish site)
 - 😀 My native language is Spanish, but I also speak fluently french and a little bit of english
 
+## Social Media
+
+- LinkedIn: https://www.linkedin.com/in/devandmus/
+
 ## My GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devandmus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
