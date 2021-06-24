@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Fullstack Developer at Wom Chile
 - 🌱 I'm currently studying Fullstack Development Master Degree at OBS Business School & Universitat de Barcelona
-- 🏕️ I took the challenge Desafío Latam Bootcamp 2021
+- 🏕️ I took the challenge Desafío Latam Fullstack Javascript Bootcamp 2021
 - 👯 I’m looking to collaborate on every Javascript or Python cool stuff
 - 💬 Ask me about React, Javascript, Django or Python
 - 🤖 I'm an active GitLab user
