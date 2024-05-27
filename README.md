@@ -2,8 +2,8 @@
 
 <img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260">
 
-- 🔭 I’m currently working as a Fullstack Developer at Wom Chile
-- 🌱 I'm currently studying Fullstack Development Master Degree at OBS Business School & Universitat de Barcelona
+- 🔭 I’m currently working as a Tech Lead / Team Lead at Wom Chile on native app / web channels / IVR / ITR
+- 🌱 I'm currently studying a Tech MBA at Universidat de Barcelona
 - 👯 I’m looking to collaborate on every Javascript or Python cool stuff
 - 💬 Ask me about React, Javascript, Django or Python
 - 🤖 I'm an active GitLab user
