@@ -2,11 +2,11 @@
 
 <img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260">
 
-- 🔭 I’m currently building [Sophieat](https://sophieat.cl) (nutritional labeling SaaS in Chile), my personal brand stack, and Tremolo Academy
-- 🌱 I'm currently working on applied AI (RAG, MCP, agents) and [andres-maldonado.com](https://andres-maldonado.com) (Astro)
-- 👯 I’m looking to collaborate on TypeScript, React, Astro or Node cool stuff
-- 💬 Ask me about TypeScript, React, Astro, Node or applied AI
-- 🤖 Open Executive specs live in [OpenExec-Grok](https://github.com/devandmus/OpenExec-Grok)
+- 🔭 I’m currently working as Engineering Manager / Tech Lead, and as an entrepreneur building [Sophieat](https://sophieat.cl) (nutritional labeling SaaS in Chile) and Tremolo Academy
+- 🌱 I'm currently working on Node.js platforms and applied AI in production (RAG, MCP, agents)
+- 👯 I’m looking to collaborate on Node.js, TypeScript, React or applied AI
+- 💬 Ask me about Node.js, applied AI, tech leadership, people management and shipping with teams
+- 🤖 I lead engineering teams: people management, delivery, technical direction, communication and mentoring
 - 🔥 I sometimes share guitar on [TikTok @devandmus](https://www.tiktok.com/@devandmus)
 - 😀 My native languages are Spanish and French, and I also work in technical English
 
